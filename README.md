@@ -1,1 +1,1 @@
-# This is a python training class -
+python training -
